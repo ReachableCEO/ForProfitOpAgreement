@@ -4,30 +4,6 @@ accordance with the Texas Business Organization Code (BOC), as amended
 from time to time, the Members hereby agree as follows
 
 
-# Resignation and Removal of Members  
-
-## Expulsion of a member for Cause
-
-Expulsion of a Member requires an affirmative vote by a 2/3 or greater majority of 
-the Board Of Directors (in accordance with the Board Manual and Charter in effect
-at that time)  and by written unanimous consent of the Company Members.
-
-The Member subject to expulsion is not eligible to vote in the proceeding.
-
-The Member subject to explulsion forefits all equity/interests/rights/contributions
-and any/all Membership interest immediately upon expulsion.
-
-## Self withdrawal of a Member 
-
-Self withdrawal of a Member requires an affirmative vote by a 2/3 or greater majority
-of the Board Of Directors (in accordance with the Board Manual and Charter in effect 
-at that time) and by written unanimous consent of the Company Members.
-
-The Member requesting self withdrawal is not eligible to vote in the proceeding.
-
-The Member subject to explulsion forefits all equity/interests/rights/contributions
-and any/all Membership interest immediately upon resignation.
-
 # Outside Capital Raising
 
 ## Non Equity and Non Debt based
@@ -222,7 +198,7 @@ information as the Board Of Directors may request.
 
 The Board Of Directors will review the proposed Annual Budget and Business Plan, 
 and subject to required revisions, approve the same for the next succeeding
-fiscal year no later than March 15 of each year.
+fiscal year no later than February 15 of each year.
 
 The Business Plan and Annual Budget shall include projected revenues,
 expenses for the year in question, projected investment activities and
@@ -280,9 +256,6 @@ time by the Board Of Directors. Any Officer may resign as such at any
 time. Any Officer may be removed as such, with or without Cause, by the
 Board Of Directors. Designation of an Officer shall not, in and of
 itself, create contract rights. 
-
-
-
 
 # Duty of care
 
@@ -881,11 +854,3 @@ has duly executed this
 
 The parties sign this Agreement on the date below by their electronic signatures.
 
-
-
-# Grant Of Profit Interests 
-
-<add details of the grant here>
-
-
-Generally this would be a cap table or something. 
