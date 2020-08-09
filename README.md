@@ -1,23 +1,21 @@
 # ForProfitOpAgreement
 
-This is the operating agreement (in combination with items found in CommonBoilerplate)
+This is the operating agreement (in combination with items found in the CommonBoilerplate repo)
 used by :
 
-Suborbital Systems Development Co LLC
-RackRental Operating Company LLC
-(and a basis for) Redwood 
+* Suborbital Systems Development Co LLC
+* RackRental Operating Company LLC
+* (and a basis for) Redwood 
 
-(you can find redwood agreement in its own repo )
+(you can find the redwood agreement in its own repo )
 
 No warranties, express or implied. It's worked well for us, YMWV!!!
 
 Also no build pipeline is provided. Our private repos have a build pipeline (bash script with 
-cat and pandoc, nothing fancy). 
+cat and pandoc, nothing fancy). You should be able to knock something up easily.
 
-We include bits from this repo and from the CommoBoilerplate repo. 
-
-Here's the pipeline (as of 07/24/2020 at 18:33 CST). It should get you started. 
-Don't open issues re build, they will be closed and your LDAP account disabled 
+Here's an old version of our pipeline. It should get you started. 
+Don't open issues re build of the contract, they will be closed WONTFIX and your LDAP account disabled 
 
 #!/bin/bash 
 
